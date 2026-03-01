@@ -1,0 +1,13 @@
+# whoami
+root
+
+# id
+uid=0(root) gid=0(root)
+
+# cd /root
+# ls
+thefinalflag.txt
+
+# cat thefinalflag.txt
+Congratulations!!!
+You have successfully completed the DC-1 challenge.
