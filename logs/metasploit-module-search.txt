@@ -1,0 +1,15 @@
+Command Used
+msfconsole
+search drupal
+
+Output
+
+Matching Modules
+================
+
+   #  Name                                           Disclosure Date  Rank
+   -  ----                                           ---------------  ----
+   0  exploit/unix/webapp/drupal_drupalgeddon2       2018-03-28       excellent
+
+Description
+Drupal 7 Remote Code Execution (CVE-2018-7600)
