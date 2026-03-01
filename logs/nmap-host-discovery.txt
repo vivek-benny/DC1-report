@@ -1,0 +1,12 @@
+Command Used
+nmap -sP 192.168.130.0/24
+
+Output
+Starting Nmap 7.94 ( https://nmap.org )
+Nmap scan report for 192.168.130.1
+Host is up.
+
+Nmap scan report for 192.168.130.7
+Host is up (0.00085s latency).
+
+Nmap done: 256 IP addresses (2 hosts up)
