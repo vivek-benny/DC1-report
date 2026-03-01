@@ -1,5 +1,5 @@
 Command Used
-nmap -sC -sV -O -p- 192.168.130.7
+nmap -sC -sV -O -p- 192.168.130.x
 
 Output
 PORT     STATE SERVICE VERSION
