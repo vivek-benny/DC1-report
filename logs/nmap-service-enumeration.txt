@@ -1,0 +1,10 @@
+Command Used
+nmap -sC -sV -O -p- 192.168.130.7
+
+Output
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 6.0p1 Debian
+80/tcp   open  http    Apache httpd
+111/tcp  open  rpcbind
+
+Service Info: OS: Linux
