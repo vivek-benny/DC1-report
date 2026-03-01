@@ -1,0 +1,9 @@
+Command Used
+find / -user root -perm /4000 2>/dev/null
+
+Output
+/usr/bin/passwd
+/usr/bin/chsh
+/usr/bin/su
+/usr/bin/gpasswd
+/usr/bin/find
