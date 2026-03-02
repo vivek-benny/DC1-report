@@ -163,19 +163,7 @@ No unauthorized systems were targeted.
 
 --------------------------------------------------
 
-References
 
-Drupal Security Advisory – CVE-2018-7600  
-https://www.drupal.org/sa-core-2018-002
-
-Metasploit Documentation  
-https://docs.metasploit.com
-
-Nmap Documentation  
-https://nmap.org/docs.html
-
-VulnHub – DC-1  
-https://www.vulnhub.com/entry/dc-1,292/
 
 --------------------------------------------------
 
