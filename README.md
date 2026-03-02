@@ -148,11 +148,10 @@ Repository Structure
 dc1-vulnhub-pentest
 │
 ├── README.md
-├── report/
-├── diagrams/
+├── Architecture/
 ├── logs/
 ├── evidence/
-└── scripts/
+
 
 --------------------------------------------------
 
